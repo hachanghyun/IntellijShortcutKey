@@ -186,9 +186,33 @@
     맥 : cmd + option + L
     윈도우 : ctrl + alt + L
 
+### Debug 모드로 실행하기 (현재위치의 메소드)
+    맥 : ctrl + shift + D
+    윈도우 : 없음
 
+### Debug 모드로 실행하기 (이전에 실행한 메소드)
+    맥 : ctrl + D
+    윈도우 : shift + F9
 
+### Resume (다음 브레이크 포인트로 이동하기)
+    맥 : cmd + option + R
+    윈도우 : F9
 
+### step over (현재 브레이크에서 다음 한줄로 이동하기)
+    맥 : F8
+    윈도우 : F8
+
+### Step Into (현재 브레이크의 다음 메소드로 이동)
+    맥 : F7
+    윈도우 : F7
+
+### Step Out (현재 메소드의 밖으로 이동)
+    맥 : shift + F8
+    윈도우 : shift + F8
+
+### Evaluate Expression (브레이크된 상태에서 코드 사용하기)
+    맥 : option + F8
+    윈도우 : alt + F8
 
  
 
