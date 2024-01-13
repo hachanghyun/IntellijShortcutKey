@@ -170,6 +170,23 @@
     맥 : F6
     윈도우 : F6
 
+### 이름 일괄 변경하기
+    맥 : shift + F6
+    윈도우 : shift + F6
+
+### 타입 일괄 변경하기
+    맥 : shift + cmd + F6
+    윈도우 : shift + ctrl + F6
+
+### Import 정리하기
+    맥 : ctrl + option + O
+    윈도우 : ctrl + alt + O
+
+### 코드 자동 정렬하기 
+    맥 : cmd + option + L
+    윈도우 : ctrl + alt + L
+
+
 
 
 
