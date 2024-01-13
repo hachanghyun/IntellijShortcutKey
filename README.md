@@ -62,6 +62,23 @@
     맥 : shift + alt + <,>
     윈도우 : Fn + <,>
 
+### 단어별 선택
+    맥 : shift + alt + <,>
+    윈도우 : shift + ctrl + <,>
+
+### 라인 첫.끝 이동
+    맥 : fn + <,>
+    윈도우 : home, end
+
+### 라인 전체 선택
+    맥 : shift + cmd + <,>
+    윈도우 : shift + home, end
+
+### page up/down
+    맥 : fn + 위/아래
+    윈도우 : page up/down
+
+
 
 
  
