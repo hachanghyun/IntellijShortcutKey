@@ -93,7 +93,26 @@
 ### 오류 라인 자동 포커스
     맥 : F2
     윈도우 : F2
-    
+
+### 현재 파일에서 검색
+    맥 : cmd + F
+    윈도우 : ctrl + F
+
+### 현재 파일에서 교체 
+    맥 : cmd + R
+    윈도우 : ctrl + R
+
+### 전체에서 검색
+    맥 : cmd + shift + F
+    윈도우 : ctrl + shift+ F
+
+### 전체에서 교체
+    맥 : cmd + shift + R
+    윈도우 : ctrl + shift + R
+
+### 정규표현식으로 검색, 교체
+    맥 : Regex 체크
+    윈도우 : Regex 체크 
 
 
 
