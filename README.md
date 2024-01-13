@@ -114,6 +114,26 @@
     맥 : Regex 체크
     윈도우 : Regex 체크 
 
+### 파일 검색
+    맥 : shift + cmd + O
+    윈도우 : shift + ctrl + N
+
+### 메소드 검색
+    맥 : alt + cmd + O
+    윈도우 : shift + ctrl + alt + N
+
+### Action 검색
+    맥 : shift + cmd + A
+    윈도우 : shift + ctrl + A
+
+### 최근 열었던 파일 목록 보기
+    맥 : cmd + E
+    윈도우 : ctrl + E
+
+### 최근 수정했던 파일 목록 보기
+    맥 : cmd + shift + E
+    윈도우 : ctrl + shift + E
+
 
 
  
