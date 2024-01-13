@@ -150,6 +150,26 @@
     맥 : ctrl + I
     윈도우 : ctrl + I
 
+### Luve Template 목록 보기
+    맥 : cmd + J
+    윈도우 : ctrl + J
+
+### 변수 추출하기
+    맥 : cmd + option + V
+    윈도우 : ctrl + alt + V
+
+### 파라미터 추출하기
+    맥 : cmd + option + P
+    윈도우 : ctrl + alt + P 
+
+### 메소드 추출하기
+    맥 : cmd + option + M
+    윈도우  : ctrl + alt + M
+
+### 이너클래스 추출하기
+    맥 : F6
+    윈도우 : F6
+
 
 
 
