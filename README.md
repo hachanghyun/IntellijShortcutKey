@@ -218,6 +218,35 @@
     맥 : 없음
     윈도우 : 없음
 
+### Git View On
+    맥 : cmd + 9
+    윈도우 : alt + 9
+
+### Git Option Popup
+    맥 : ctrl + V
+    윈도우 : alt + `(탭 위 버튼)
+
+### Git history
+    맥 : ctrl + V => 4
+    윈도우 : alt + `(탭 위 버튼) => 4
+
+### Git history
+    맥 : ctrl + V => 7
+    윈도우 : alt + `(탭 위 버튼) => 7
+
+### Commit
+    맥: cmd + k
+    윈도우 : ctrl + k
+
+### push 
+    맥: cmd + shift + k
+    윈도우 : ctrl + shift + k
+
+### pull
+    맥 : cmd + shift + A => git pull
+    윈도우 : ctrl + shift + A => git pull
+
+
 
     
 
