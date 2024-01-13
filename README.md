@@ -134,6 +134,23 @@
     맥 : cmd + shift + E
     윈도우 : ctrl + shift + E
 
+### 스마트 자동 완성
+    맥 : ctrl + shift + space
+    윈도우 : ctrl + shift + space
+
+### 스태틱 메소드 자동 완성
+    맥 : ctrl + space * 2
+    윈도우 : ctrl + space * 2
+
+### Getter/Setter/생성자 자동완성
+    맥 : cmd + N
+    윈도우 : alt + Insert
+
+### Override 메소드 자동완성
+    맥 : ctrl + I
+    윈도우 : ctrl + I
+
+
 
 
  
