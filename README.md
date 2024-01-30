@@ -10,7 +10,7 @@
 
 ### 실행환경 실행
     1. 현재포커스
-        맥 : ctrl + shift + R 
+        맥 : ctrl + shift + R  
         윈도우 : shift + ctrl + F10
 
     2. 이전 실행
