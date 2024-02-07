@@ -6,7 +6,7 @@
  
 ### 코드 템플릿 
     메인 메소드 : psvm  
-    System.out.println() : sout       
+    System.out.println() : sout        
 
 ### 실행환경 실행
     1. 현재포커스
